@@ -1,1 +1,2 @@
-https://github.com/tevturkcell-byte/video-control/blob/e265d62510324bed942cc044da92b1acc2e8781d/REKLAM.mp4
+https://raw.githubusercontent.com/tevturkcell-byte/video-control/main/REKLAM.mp4
+
